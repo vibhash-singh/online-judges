@@ -1,4 +1,4 @@
-Online_Judges
+online judges
 =============
 
 Solution to online Judges
